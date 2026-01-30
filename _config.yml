@@ -16,10 +16,10 @@ timezone: Europe/London
 
 title: Froth and Java
 
-tagline: Yet another software developer's blog
+tagline: Yet another software developerment blog
 
 description: >- # used by seo meta and the atom feed
-  Yet another software Dev's blog. Mostly, but not only, around Java.
+  Yet another software development blog. Mostly, but not only, using Java.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
